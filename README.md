@@ -1,0 +1,1 @@
+This project uses historical sales data to forecast future pizza sales and generate an optimized purchase order system for Dominos. By accurately predicting sales using time series models like ARIMA, the system helps ensure the right amount of ingredients are ordered to minimize waste and prevent stockouts.
